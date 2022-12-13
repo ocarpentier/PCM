@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="830ddff9-7493-4391-9125-3a579b4063fd" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curekinetics/Cure Kinetics PCM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Curekinetics/Cure Kinetics PCM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rheokinetics/Notebook Rheokinetics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Rheokinetics/Notebook Rheokinetics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +75,7 @@
       <workItem from="1670847054012" duration="1544000" />
       <workItem from="1670875431047" duration="1078000" />
       <workItem from="1670935408961" duration="1733000" />
+      <workItem from="1670939549311" duration="2731000" />
     </task>
     <task id="LOCAL-00001" summary="q2">
       <created>1670362007167</created>
@@ -186,6 +187,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="q2" />
