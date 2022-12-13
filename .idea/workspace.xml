@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="830ddff9-7493-4391-9125-3a579b4063fd" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_12_2022_10_38_PM_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_12_2022_10_38_PM__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curekinetics/Cure Kinetics PCM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Curekinetics/Cure Kinetics PCM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rheokinetics/Notebook Rheokinetics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Rheokinetics/Notebook Rheokinetics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,10 @@
       <workItem from="1670519182705" duration="610000" />
       <workItem from="1670701516092" duration="1910000" />
       <workItem from="1670763608992" duration="9062000" />
-      <workItem from="1670785403835" duration="2996000" />
+      <workItem from="1670785403835" duration="3339000" />
+      <workItem from="1670842120504" duration="1995000" />
+      <workItem from="1670847054012" duration="1544000" />
+      <workItem from="1670875431047" duration="1078000" />
     </task>
     <task id="LOCAL-00001" summary="q2">
       <created>1670362007167</created>
@@ -160,7 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670796332872</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1670796406846</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670796406846</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1670796580631</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670796580631</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,16 +185,5 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Curekinetics/Cure Kinetics PCM.ipynb" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/Users/irene/PycharmProjects/PCM/Rheokinetics/Notebook Rheokinetics.ipynb</url>
-          <line>67</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
