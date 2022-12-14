@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="830ddff9-7493-4391-9125-3a579b4063fd" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_12_2022_10_38_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_12_2022_10_38_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curekinetics/Cure Kinetics PCM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Curekinetics/Cure Kinetics PCM.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Rheokinetics/Notebook Rheokinetics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Rheokinetics/Notebook Rheokinetics.ipynb" afterDir="false" />
@@ -75,7 +77,8 @@
       <workItem from="1670842120504" duration="1995000" />
       <workItem from="1670847054012" duration="1544000" />
       <workItem from="1670875431047" duration="1078000" />
-      <workItem from="1670935408961" duration="8507000" />
+      <workItem from="1670935408961" duration="9138000" />
+      <workItem from="1671013955884" duration="10494000" />
     </task>
     <task id="LOCAL-00001" summary="q2">
       <created>1670362007167</created>
@@ -189,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670937320253</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1670948613717</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670948613717</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
